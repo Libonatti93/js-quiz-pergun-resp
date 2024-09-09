@@ -1,0 +1,17 @@
+Project Structure
+HTML - Basic structure of the quiz application.
+CSS - Styles for a clean and responsive interface.
+JavaScript - Quiz logic to display questions, check answers and calculate scores.
+
+Code Description
+HTML: Defines the basic structure of the quiz interface, including a container for questions and options, as well as buttons to advance or restart the quiz.
+
+CSS: Applies styles to make the interface visually appealing and responsive, with buttons for correct and incorrect answers highlighted.
+
+JavaScript:
+
+Defines an array of questions, options, and correct answers.
+
+Manages the state of the quiz, including displaying questions, checking answers, updating scores, and transitioning to the next question.
+
+Handles quiz completion, showing the final result and offering the option to restart the quiz.
